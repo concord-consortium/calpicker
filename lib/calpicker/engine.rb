@@ -1,7 +1,6 @@
 
 module Calpicker
 
-  PLUGIN_VERSION = '1.16.2'
   FORMATS = {
     :natural => {
       :date => "%B %d, %Y",

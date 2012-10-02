@@ -6,7 +6,7 @@ require "calpicker/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "calpicker"
-  s.version     = Calpicker::VERSION
+  s.version     = Calpicker::GEM_VERSION
   s.authors     = ["Noah Paessel"]
   s.email       = ["npaessel@concord.org"]
   s.homepage    = ""
